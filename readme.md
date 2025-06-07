@@ -27,7 +27,7 @@ This script is designed for a Linux or macOS environment.
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/ahmad-ubaidillah/zip_pdf_pw_cracker/upload
+git clone https://github.com/ahmad-ubaidillah/zip_pdf_pw_cracker
 ```
 
 **2. Navigate to the Directory**
